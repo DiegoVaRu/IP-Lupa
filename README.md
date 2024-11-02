@@ -1,0 +1,2 @@
+- REQUIERE VPN!
+- La API que usa posee restricciones regionales.
