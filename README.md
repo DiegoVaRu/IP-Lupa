@@ -1,1 +1,2 @@
-### _La API que usa posee restricciones regionales._
+.[!WARNING]
+> La API posee restricciones regionales.
