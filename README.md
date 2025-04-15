@@ -1,2 +1,2 @@
-> > [!WARN]
+> [!WARN]
 > La API posee restricciones regionales.
